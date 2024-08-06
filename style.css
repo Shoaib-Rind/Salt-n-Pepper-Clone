@@ -1,0 +1,142 @@
+.container-fluid{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: black;
+            
+            
+}
+ .main{
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+            width: 100%;
+            
+            
+            
+    }
+
+    nav{
+        width: 100%;
+    }
+
+.logo{
+        justify-content: start;
+}
+
+.list{
+        display: flex;
+        gap: 15px;
+        color: white;
+        font-family: sans-serif;
+       
+
+}
+
+li{
+    display: block;
+    flex-direction: column;
+    font-size: x-large;
+}
+.one{   
+        width: 140px;
+        background-color: transparent;
+        color: white;
+        font-family: sans-serif;
+        border-radius: 30px;
+        padding: 1px;
+        border: 2px solid white;       
+}
+
+.two{   
+        width: 50%;
+        background-color: Red;
+        color: white;
+        font-family: sans-serif;
+        border-radius: 30px;
+        padding: 1px;
+        
+}
+
+
+.container-fluid3{
+                background-color: black;
+                width: 100%;
+                height: auto;
+}
+
+.text1{
+                font-family: sans-serif;
+                color: white;
+                display: flex;
+                justify-content: center;
+}
+.text2{
+        font-family: sans-serif;
+        color: white;
+        display: flex;
+        justify-content: center;
+}
+.text3{
+        font-family: sans-serif;
+        color: white;
+        display: flex;
+        justify-content: center;
+}
+
+
+
+.box2{
+        height: 300%;
+        background-color: black;
+        padding: 3%;
+        
+}
+
+.Romeo{
+        background-color: black;
+        justify-content: center;
+}
+
+.B1{
+       background-color: black;
+       
+
+}
+.B2{
+        background-color: rgb(46, 168, 184)
+}
+.B3{
+        background-color: green
+}
+
+.odd{
+        width: 140px;
+        padding: 1%;
+        border-radius:40px;
+        background-color: transparent;
+        color: white;
+        border: 1px solid white;
+        
+}
+
+.last1{
+        color: rgb(20, 19, 19);
+}
+
+.locat{
+        background-color: transparent;
+        color: white;
+        font-family: sans-serif;
+        border-radius: 40px;
+        border: 1px solid white;
+        padding: 4%;  
+}
+
+
+.text4{
+        color: white;
+}
+p{
+        color: white;
+}
